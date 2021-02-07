@@ -5,10 +5,10 @@ Language used:
 *Python  
 
 Changelog:  
-# Version 1.0.1  
+# Version 1.0.0  
 *Initial version.  
 
 
-# Version 1.0.1 released by Brandixitor  
+# Version 1.0.1   
 *Updated the code to match Python 3.9.1 requirements.  
 *Fixed a couple of Pip bootstrap issues.  
